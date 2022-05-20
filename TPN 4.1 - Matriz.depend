@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651588199 source:c:\users\equipo\desktop\carpeta drive\utn\1º cuatrimestre\programacion\tpn 4.1 - matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+
